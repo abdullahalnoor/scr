@@ -14,7 +14,7 @@
          
         </div>
         <div class="account-right">
-    <?php  include 'components/login.php' ?>
+    <?php  include 'components/login_form.php' ?>
         
         </div>
     </div>
